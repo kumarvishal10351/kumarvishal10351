@@ -61,7 +61,7 @@
 ## 〔 02 〕 Featured Projects
 
 <details open>
-<summary><b>ARIA — Adaptive Reasoning Intelligence Agent</b> &nbsp;|&nbsp; Multi-Agent · FastAPI · RAG · LLMs · Voice Interface</summary>
+<summary><b><a href="https://github.com/kumarvishal10351/ARIA">ARIA — Adaptive Reasoning Intelligence Agent</a></b> &nbsp;|&nbsp; Multi-Agent · FastAPI · RAG · LLMs · Voice Interface</summary>
 <br>
 
 A production-oriented multi-agent AI assistant with dynamic reasoning across conversational, retrieval, and tool-execution modules. ARIA routes queries intelligently — switching between live chat, document retrieval via vector search, and system-level command execution based on context.
@@ -80,7 +80,7 @@ A production-oriented multi-agent AI assistant with dynamic reasoning across con
 ---
 
 <details open>
-<summary><b>AI Career Copilot</b> &nbsp;|&nbsp; Mistral AI · Streamlit · NLP · ATS Intelligence · PDF Parsing</summary>
+<summary><b><a href="https://github.com/kumarvishal10351/AI-Career-Copilot">AI Career Copilot</a></b> &nbsp;|&nbsp; Mistral AI · Streamlit · NLP · ATS Intelligence · PDF Parsing</summary>
 <br>
 
 End-to-end resume intelligence platform that parses resumes, scores them against ATS criteria, matches job descriptions, and generates structured interview preparation material using an LLM backbone.
@@ -99,7 +99,7 @@ End-to-end resume intelligence platform that parses resumes, scores them against
 ---
 
 <details open>
-<summary><b>AURA — Adaptive Unified Retrieval Assistant</b> &nbsp;|&nbsp; RAG · Vector Databases · Semantic Search · NLP</summary>
+<summary><b><a href="https://github.com/kumarvishal10351/AURA">AURA — Adaptive Unified Retrieval Assistant</a></b> &nbsp;|&nbsp; RAG · Vector Databases · Semantic Search · NLP</summary>
 <br>
 
 A retrieval-augmented QA system built to minimize hallucinations by grounding every LLM response in semantically retrieved source documents. Designed for enterprise-grade document Q&A reliability.
