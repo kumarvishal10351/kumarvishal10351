@@ -1,136 +1,186 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar Kashyap</h1>
-<h3 align="center">AI Engineer | Data Scientist | Building RAG & Agentic AI Systems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/kumarvishal10351">
-    <img src="https://komarev.com/ghpvc/?username=kumarvishal10351&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/kumarvishal10351?tab=followers">
-    <img src="https://img.shields.io/github/followers/kumarvishal10351?label=Followers&style=social" alt="followers" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:4de8c2&height=120&section=header" width="100%" />
+
+# Vishal Kumar Kashyap
+
+### AI Engineer · RAG Specialist · Agentic Systems Builder
+
+<p>
+  I design and ship production-ready AI systems — from multi-agent orchestration<br>
+  and retrieval-augmented generation pipelines, to LLM-powered APIs and semantic search infrastructure.
 </p>
 
----
+<br>
 
-### About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kumar-kashyap/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kumar-kashyap.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvikash10351@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarvishal10351)
+[![Profile Views](https://komarev.com/ghpvc/?username=kumarvishal10351&label=Profile+Views&color=4de8c2&style=for-the-badge)](https://github.com/kumarvishal10351)
 
-I build production-ready AI systems focused on LLMs, Retrieval-Augmented Generation (RAG), semantic search, and agentic workflows.  
-My work combines Python, FastAPI, Streamlit, vector databases, and modern ML tooling to deliver reliable real-world applications.
+<br>
 
-- 🔭 Currently building **Agentic AI & RAG-based systems**
-- 🌱 Learning **Advanced LLMs, LangChain, and MLOps**
-- 🤝 Open to collaborating on **AI, NLP, and Data Science projects**
-- 💬 Ask me about **Python, Machine Learning, RAG, Streamlit, FastAPI**
-- ⚡ I enjoy building **real-world AI products**
+> **Open to:** AI Engineer · ML Engineer · GenAI Engineer · Applied AI · RAG / Agentic AI roles
 
----
-
-### Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=internetarchive&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### Featured Projects
+## 〔 01 〕 What I Build
 
-#### 1) ARIA — Adaptive Reasoning Intelligence Agent
-**Agentic AI System | FastAPI | RAG | LLMs | Voice Interfaces**
-
-- Multi-agent AI system for conversational queries, document retrieval, and system command execution
-- Dynamic routing across chat, retrieval, and tool execution modules
-- Vector embeddings + retrieval pipeline for context-aware responses
-- FastAPI-based REST APIs for scalable real-time interaction
-- Voice-based interaction with fallback handling for robustness
-
-#### 2) AI Career Copilot
-**LLM-Based Resume Intelligence System | Streamlit | Mistral AI | NLP**
-
-- Resume analysis, ATS scoring, and job-role matching platform
-- JSON-based LLM outputs for structured section-wise scoring
-- Resume rewriting, interview question generation, and improvement suggestions
-- Modular design for LLM interaction, PDF parsing, and export features
-- Retry logic and session-based caching for better performance
-
-#### 3) AURA — Adaptive Unified Retrieval Assistant
-**Retrieval-Augmented QA System | RAG | Vector Databases | NLP**
-
-- Context-aware question answering with retrieval augmentation
-- Vector embeddings and semantic search for stronger document ranking
-- LLM reasoning combined with retrieval pipelines
-- Scalable ingestion, indexing, and query workflow
-- Reduced hallucinations with reliable knowledge-grounded responses
-
----
-
-### Education
-
-**Bachelor’s in Computer Science**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya | 2023 – 2026
-
-**Diploma in Computer Science**  
-Jharkhand University of Technology | 2020 – 2023
+<table>
+  <tr>
+    <td><b>🤖 LLMs & GenAI</b></td>
+    <td>Prompt engineering, structured outputs, fine-tuning, hallucination reduction</td>
+  </tr>
+  <tr>
+    <td><b>🔍 RAG Systems</b></td>
+    <td>Semantic retrieval, vector indexing, chunking strategies, re-ranking pipelines</td>
+  </tr>
+  <tr>
+    <td><b>🧠 Agentic AI</b></td>
+    <td>Multi-agent orchestration, tool use, dynamic routing, memory management</td>
+  </tr>
+  <tr>
+    <td><b>⚡ APIs & Deployment</b></td>
+    <td>FastAPI REST services, Docker, AWS / GCP, production-grade pipelines</td>
+  </tr>
+  <tr>
+    <td><b>🔎 NLP & Search</b></td>
+    <td>Semantic similarity, dense embedding pipelines, document Q&A systems</td>
+  </tr>
+  <tr>
+    <td><b>📊 ML Engineering</b></td>
+    <td>PyTorch, TensorFlow, Scikit-learn, model evaluation, Streamlit interfaces</td>
+  </tr>
+</table>
 
 ---
 
-### Certifications
+## 〔 02 〕 Featured Projects
 
-- **Python with Machine Learning** — Briztech Solution (2022)
+<details open>
+<summary><b>ARIA — Adaptive Reasoning Intelligence Agent</b> &nbsp;|&nbsp; Multi-Agent · FastAPI · RAG · LLMs · Voice Interface</summary>
+<br>
 
----
+A production-oriented multi-agent AI assistant with dynamic reasoning across conversational, retrieval, and tool-execution modules. ARIA routes queries intelligently — switching between live chat, document retrieval via vector search, and system-level command execution based on context.
 
-### Connect With Me
+| Component | Detail |
+|---|---|
+| **Architecture** | Modular multi-agent design with a central orchestrator for task delegation |
+| **Retrieval** | Vector embedding pipeline with semantic ranking for context-aware, grounded responses |
+| **API Layer** | FastAPI REST endpoints enabling low-latency, scalable real-time interaction |
+| **Interface** | Voice-based I/O with fallback handling and session continuity |
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vishal-kumar-kashyap/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kumarvikash10351@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/kumarvishal10351" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://vishal-kumar-kashyap.vercel.app" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+`Multi-Agent` `RAG` `FastAPI` `Vector Embeddings` `LLMs` `Voice Interface` `Semantic Search`
+
+</details>
 
 ---
 
-### GitHub Stats
+<details open>
+<summary><b>AI Career Copilot</b> &nbsp;|&nbsp; Mistral AI · Streamlit · NLP · ATS Intelligence · PDF Parsing</summary>
+<br>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarvishal10351&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvishal10351&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+End-to-end resume intelligence platform that parses resumes, scores them against ATS criteria, matches job descriptions, and generates structured interview preparation material using an LLM backbone.
+
+| Component | Detail |
+|---|---|
+| **LLM Pipeline** | Mistral AI with structured JSON outputs for section-wise ATS scoring and analysis |
+| **Features** | Resume rewriting, job-role matching, interview Q&A generation, improvement suggestions |
+| **Engineering** | Modular separation of LLM calls, PDF parsing, caching, and export layers |
+| **Resilience** | Retry logic and session-based state management for stable multi-user usage |
+
+`Mistral AI` `Streamlit` `NLP` `ATS Scoring` `PDF Parsing` `LLMs` `Job Matching`
+
+</details>
 
 ---
 
-### Recruiter-Friendly Snapshot
+<details open>
+<summary><b>AURA — Adaptive Unified Retrieval Assistant</b> &nbsp;|&nbsp; RAG · Vector Databases · Semantic Search · NLP</summary>
+<br>
 
-- **Focus:** AI Engineering, RAG, Agentic Systems, NLP, ML
-- **Core Stack:** Python, FastAPI, Streamlit, Docker, AWS, GCP, SQL
-- **Best Projects:** ARIA, AI Career Copilot, AURA
-- **Strength:** Building practical AI systems with deployment-ready architecture
+A retrieval-augmented QA system built to minimize hallucinations by grounding every LLM response in semantically retrieved source documents. Designed for enterprise-grade document Q&A reliability.
 
-<p align="center">
-  <i>Code. Build. Learn. Repeat. Turning ideas into intelligent solutions.</i>
-</p>
+| Component | Detail |
+|---|---|
+| **Retrieval** | Dense vector search with semantic re-ranking for high-precision document matching |
+| **Pipeline** | Scalable ingestion, chunking, indexing, and query workflows |
+| **LLM Integration** | Combines retrieval context with LLM reasoning to eliminate confabulation |
+| **Outcome** | Knowledge-grounded responses suitable for enterprise document Q&A |
+
+`RAG` `Vector DB` `Semantic Search` `NLP` `Knowledge Grounding` `Hallucination Reduction`
+
+</details>
+
+---
+
+## 〔 03 〕 Tech Stack
+
+**AI / ML / GenAI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Infrastructure & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 〔 04 〕 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarvishal10351&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=4de8c2&icon_color=4de8c2&text_color=9aa0b8" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvishal10351&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4de8c2&text_color=9aa0b8" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=kumarvishal10351&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4de8c2&fire=f5a623&currStreakLabel=4de8c2" />
+
+</div>
+
+---
+
+## 〔 05 〕 Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| B.Tech, Computer Science | Rajiv Gandhi Proudyogiki Vishwavidyalaya | 2023 – 2026 |
+| Diploma, Computer Science | Jharkhand University of Technology | 2020 – 2023 |
+
+**Certifications**
+- Python with Machine Learning — Briztech Solution (2022)
+
+---
+
+<div align="center">
+
+*Building AI systems that work in production, not just in notebooks.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4de8c2,50:1a1f35,100:0d1117&height=100&section=footer" width="100%" />
+
+</div>
