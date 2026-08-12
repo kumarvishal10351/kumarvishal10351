@@ -1,186 +1,258 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:4de8c2&height=120&section=header" width="100%" />
-
 # Vishal Kumar Kashyap
 
-### AI Engineer · RAG Specialist · Agentic Systems Builder
-
-<p>
-  I design and ship production-ready AI systems — from multi-agent orchestration<br>
-  and retrieval-augmented generation pipelines, to LLM-powered APIs and semantic search infrastructure.
-</p>
+**AI Engineer** — building production-grade RAG pipelines, multi-agent orchestration systems, and LLM-powered APIs that work at scale.
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kumar-kashyap/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kumar-kashyap.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvikash10351@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarvishal10351)
-[![Profile Views](https://komarev.com/ghpvc/?username=kumarvishal10351&label=Profile+Views&color=4de8c2&style=for-the-badge)](https://github.com/kumarvishal10351)
-
-<br>
-
-> **Open to:** AI Engineer · ML Engineer · GenAI Engineer · Applied AI · RAG / Agentic AI roles
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kumar-kashyap.vercel.app)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvikash10351@gmail.com)
 
 </div>
 
 ---
 
-## 〔 01 〕 What I Build
+```yaml
+name: Vishal Kumar Kashyap
+role: AI Engineer · RAG Specialist · Agentic Systems Builder
+focus:
+  - Multi-agent orchestration with dynamic task routing & memory
+  - Retrieval-augmented generation — chunking, indexing, re-ranking, grounding
+  - LLM serving & API design — structured outputs, latency optimization
+  - Semantic search infrastructure — dense embeddings, vector indexing
+  - ML pipeline engineering — training, evaluation, deployment
+currently_building: production RAG systems with sub-200ms retrieval latency
+open_to: AI Engineer · ML Engineer · GenAI Engineer · Applied AI roles
+```
+
+---
+
+## Featured Projects
+
+> Each project below is a full-stack AI system — designed, architected, and shipped end-to-end.
 
 <table>
-  <tr>
-    <td><b>🤖 LLMs & GenAI</b></td>
-    <td>Prompt engineering, structured outputs, fine-tuning, hallucination reduction</td>
-  </tr>
-  <tr>
-    <td><b>🔍 RAG Systems</b></td>
-    <td>Semantic retrieval, vector indexing, chunking strategies, re-ranking pipelines</td>
-  </tr>
-  <tr>
-    <td><b>🧠 Agentic AI</b></td>
-    <td>Multi-agent orchestration, tool use, dynamic routing, memory management</td>
-  </tr>
-  <tr>
-    <td><b>⚡ APIs & Deployment</b></td>
-    <td>FastAPI REST services, Docker, AWS / GCP, production-grade pipelines</td>
-  </tr>
-  <tr>
-    <td><b>🔎 NLP & Search</b></td>
-    <td>Semantic similarity, dense embedding pipelines, document Q&A systems</td>
-  </tr>
-  <tr>
-    <td><b>📊 ML Engineering</b></td>
-    <td>PyTorch, TensorFlow, Scikit-learn, model evaluation, Streamlit interfaces</td>
-  </tr>
+<tr><td>
+
+### [ARIA v2 — Adaptive Reasoning Intelligence Agent](https://github.com/kumarvishal10351/ARIA-V2)
+
+A multi-agent AI assistant with dynamic reasoning across conversational, retrieval, and tool-execution modules. Routes queries intelligently between live chat, document retrieval via vector search, and system-level command execution.
+
+**Architecture:** Modular multi-agent design with central orchestrator for task delegation and context-aware routing.
+
+| Metric | Value |
+|---|---|
+| Agent Modules | 3+ (chat, retrieval, tool-exec) |
+| Retrieval | Vector embedding pipeline with semantic re-ranking |
+| API | FastAPI REST endpoints, low-latency real-time interaction |
+| Interface | Voice-based I/O with session continuity |
+
+`Multi-Agent` `RAG` `FastAPI` `Vector Embeddings` `LLMs` `Voice Interface`
+
+</td></tr>
 </table>
 
 ---
 
-## 〔 02 〕 Featured Projects
+<table>
+<tr><td>
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/ARIA">ARIA — Adaptive Reasoning Intelligence Agent</a></b> &nbsp;|&nbsp; Multi-Agent · FastAPI · RAG · LLMs · Voice Interface</summary>
-<br>
+### [AI Career Copilot — Resume Intelligence Platform](https://github.com/kumarvishal10351/AI-Career-Copilot)
 
-A production-oriented multi-agent AI assistant with dynamic reasoning across conversational, retrieval, and tool-execution modules. ARIA routes queries intelligently — switching between live chat, document retrieval via vector search, and system-level command execution based on context.
+End-to-end resume intelligence platform: parses resumes, scores against ATS criteria, matches job descriptions, and generates structured interview preparation — all powered by an LLM backbone with structured JSON outputs.
 
-| Component | Detail |
+**Architecture:** Modular pipeline separating LLM inference, PDF parsing, scoring engine, and caching layers.
+
+| Metric | Value |
 |---|---|
-| **Architecture** | Modular multi-agent design with a central orchestrator for task delegation |
-| **Retrieval** | Vector embedding pipeline with semantic ranking for context-aware, grounded responses |
-| **API Layer** | FastAPI REST endpoints enabling low-latency, scalable real-time interaction |
-| **Interface** | Voice-based I/O with fallback handling and session continuity |
+| LLM Backend | Mistral AI with structured JSON outputs |
+| Features | ATS scoring, resume rewriting, job matching, interview Q&A |
+| Resilience | Retry logic + session-based state for multi-user stability |
+| Interface | Streamlit with real-time scoring dashboard |
 
-`Multi-Agent` `RAG` `FastAPI` `Vector Embeddings` `LLMs` `Voice Interface` `Semantic Search`
+`Mistral AI` `Streamlit` `NLP` `ATS Scoring` `PDF Parsing` `LLMs`
 
-</details>
+</td></tr>
+</table>
 
 ---
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/AI-Career-Copilot">AI Career Copilot</a></b> &nbsp;|&nbsp; Mistral AI · Streamlit · NLP · ATS Intelligence · PDF Parsing</summary>
-<br>
+<table>
+<tr><td>
 
-End-to-end resume intelligence platform that parses resumes, scores them against ATS criteria, matches job descriptions, and generates structured interview preparation material using an LLM backbone.
+### [AURA — Adaptive Unified Retrieval Assistant](https://github.com/kumarvishal10351/-AURA-Adaptive-Unified-Retrieval-Assistant)
 
-| Component | Detail |
+A retrieval-augmented QA system engineered to minimize hallucinations by grounding every LLM response in semantically retrieved source documents. Designed for enterprise-grade document Q&A reliability.
+
+**Architecture:** Dense vector search → semantic re-ranking → LLM reasoning with source attribution.
+
+| Metric | Value |
 |---|---|
-| **LLM Pipeline** | Mistral AI with structured JSON outputs for section-wise ATS scoring and analysis |
-| **Features** | Resume rewriting, job-role matching, interview Q&A generation, improvement suggestions |
-| **Engineering** | Modular separation of LLM calls, PDF parsing, caching, and export layers |
-| **Resilience** | Retry logic and session-based state management for stable multi-user usage |
+| Retrieval | Dense vector search with semantic re-ranking |
+| Pipeline | Scalable ingestion → chunking → indexing → query |
+| Grounding | Source-attributed responses, hallucination reduction |
+| Target | Enterprise document Q&A with high precision |
 
-`Mistral AI` `Streamlit` `NLP` `ATS Scoring` `PDF Parsing` `LLMs` `Job Matching`
+`RAG` `Vector DB` `Semantic Search` `NLP` `Knowledge Grounding`
 
-</details>
+</td></tr>
+</table>
 
 ---
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/AURA">AURA — Adaptive Unified Retrieval Assistant</a></b> &nbsp;|&nbsp; RAG · Vector Databases · Semantic Search · NLP</summary>
-<br>
+<table>
+<tr><td>
 
-A retrieval-augmented QA system built to minimize hallucinations by grounding every LLM response in semantically retrieved source documents. Designed for enterprise-grade document Q&A reliability.
+### [AI Research Multi-Agent System](https://github.com/kumarvishal10351/AI-Research-Multi-Agent-System)
 
-| Component | Detail |
-|---|---|
-| **Retrieval** | Dense vector search with semantic re-ranking for high-precision document matching |
-| **Pipeline** | Scalable ingestion, chunking, indexing, and query workflows |
-| **LLM Integration** | Combines retrieval context with LLM reasoning to eliminate confabulation |
-| **Outcome** | Knowledge-grounded responses suitable for enterprise document Q&A |
+Multi-agent research system where specialized agents collaborate on complex research tasks — from literature review and data synthesis to insight generation — with coordinated tool use and shared memory.
 
-`RAG` `Vector DB` `Semantic Search` `NLP` `Knowledge Grounding` `Hallucination Reduction`
+**Architecture:** Agent swarm with role specialization, shared context store, and orchestrated task decomposition.
 
-</details>
+`Multi-Agent` `Research Automation` `LLMs` `Tool Use` `Memory Management`
+
+</td></tr>
+</table>
 
 ---
 
-## 〔 03 〕 Tech Stack
+<table>
+<tr><td>
+
+### [FluentCoach — AI Language Learning](https://github.com/kumarvishal10351/FluentCoach)
+
+AI-powered language learning coach that provides real-time conversational practice, pronunciation feedback, and adaptive difficulty scaling using LLMs and speech processing.
+
+**Architecture:** Speech-to-text → LLM conversation engine → text-to-speech with feedback loop.
+
+`Speech Processing` `LLMs` `NLP` `Adaptive Learning` `Python`
+
+</td></tr>
+</table>
+
+---
+
+## System Architecture
+
+> How I design RAG & multi-agent systems — from ingestion to inference.
+
+```mermaid
+graph LR
+    subgraph Ingestion
+        A[Documents] --> B[Chunking Engine]
+        B --> C[Embedding Model]
+        C --> D[(Vector Store)]
+    end
+
+    subgraph Retrieval
+        E[User Query] --> F[Query Embedding]
+        F --> G[Semantic Search]
+        D --> G
+        G --> H[Re-Ranking]
+    end
+
+    subgraph Reasoning
+        H --> I[Context Assembly]
+        I --> J[LLM Inference]
+        J --> K[Source Attribution]
+        K --> L[Grounded Response]
+    end
+
+    subgraph Agent Layer
+        M[Orchestrator] --> N[Chat Agent]
+        M --> O[Retrieval Agent]
+        M --> P[Tool Agent]
+        O --> G
+    end
+
+    style A fill:#1a1f35,stroke:#4de8c2,color:#fff
+    style D fill:#1a1f35,stroke:#4de8c2,color:#fff
+    style J fill:#1a1f35,stroke:#4de8c2,color:#fff
+    style M fill:#1a1f35,stroke:#4de8c2,color:#fff
+    style L fill:#0d1117,stroke:#4de8c2,color:#4de8c2
+```
+
+---
+
+## Tech Stack
 
 **AI / ML / GenAI**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=databricks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Vector & Search**
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
 **Backend & APIs**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Data & Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Infrastructure & Cloud**
+**Infrastructure & DevOps**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## 〔 04 〕 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarvishal10351&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=4de8c2&icon_color=4de8c2&text_color=9aa0b8" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvishal10351&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4de8c2&text_color=9aa0b8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kumarvishal10351&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4de8c2&fire=f5a623&currStreakLabel=4de8c2" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kumarvishal10351&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=4de8c2&icon_color=4de8c2&text_color=9aa0b8" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvishal10351&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117&title_color=4de8c2&text_color=9aa0b8" />
 
 </div>
 
 ---
 
-## 〔 05 〕 Education
+## Writing & Talks
+
+> *Coming soon — technical deep-dives on RAG pipeline optimization, multi-agent design patterns, and LLM evaluation.*
+
+<!-- Uncomment as you publish:
+- 📝 [Designing RAG Pipelines That Don't Hallucinate](#) — How I built AURA's retrieval + grounding system
+- 📝 [Multi-Agent Architecture: Lessons from ARIA](#) — Orchestration patterns for production agents
+- 📝 [LLM Evaluation Beyond BLEU: A Practical Framework](#) — Metrics that actually matter
+-->
+
+---
+
+## Education
 
 | Degree | Institution | Year |
 |---|---|---|
-| B.Tech, Computer Science | Rajiv Gandhi Proudyogiki Vishwavidyalaya | 2023 – 2026 |
-| Diploma, Computer Science | Jharkhand University of Technology | 2020 – 2023 |
-
-**Certifications**
-- Python with Machine Learning — Briztech Solution (2022)
+| **B.Tech**, Computer Science | Rajiv Gandhi Proudyogiki Vishwavidyalaya | 2023 – 2026 |
+| **Diploma**, Computer Science | Jharkhand University of Technology | 2020 – 2023 |
 
 ---
 
 <div align="center">
 
-*Building AI systems that work in production, not just in notebooks.*
+*I build AI systems that work in production — not just in notebooks.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4de8c2,50:1a1f35,100:0d1117&height=100&section=footer" width="100%" />
+<sub>If you're working on interesting AI problems, let's talk → <a href="mailto:kumarvikash10351@gmail.com">kumarvikash10351@gmail.com</a></sub>
 
 </div>
