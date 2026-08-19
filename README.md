@@ -1,328 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:4de8c2&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:162238,100:4de8c2&height=120&section=header" width="100%" alt="Header" />
 
 # Vishal Kumar Kashyap
 
-### AI Engineer · RAG Specialist · Agentic Systems Builder
+### AI/ML Engineer · Deep Learning · NLP · RAG · Agentic AI
+
+I build **end-to-end intelligent systems** — from data validation, feature engineering, and model evaluation to retrieval pipelines, tool-using agents, APIs, and deployed user interfaces.
+
+My work spans **supervised machine learning, deep learning for NLP, semantic retrieval, grounded generation, agent orchestration, and AI product engineering**.
 
 <p>
-  I design and ship production-ready AI systems — from multi-agent orchestration<br>
-  and retrieval-augmented generation pipelines, to LLM-powered APIs and semantic search infrastructure.
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow and Keras" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+  <a href="https://python.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /></a>
+  <a href="https://github.com/facebookresearch/faiss"><img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
 </p>
 
-<br>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kumar-kashyap.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kumar-kashyap/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kumar-kashyap.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvikash10351@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumarvishal10351)
 
-<br>
-
-> **Open to:** AI Engineer · ML Engineer · GenAI Engineer · Applied AI · RAG / Agentic AI roles
+> **Open to:** AI/ML Engineer · GenAI Engineer · Applied AI Engineer · NLP/RAG Engineer roles
 
 </div>
 
 ---
 
-## 〔 01 〕 What I Build
+## What I Work On
 
-<table>
-  <tr>
-    <td><b>🤖 LLMs & GenAI</b></td>
-    <td>Prompt engineering, structured outputs, fine-tuning, hallucination reduction</td>
-  </tr>
-  <tr>
-    <td><b>🔍 RAG Systems</b></td>
-    <td>Semantic retrieval, vector indexing, chunking strategies, re-ranking pipelines</td>
-  </tr>
-  <tr>
-    <td><b>🧠 Agentic AI</b></td>
-    <td>Multi-agent orchestration, tool use, dynamic routing, memory management</td>
-  </tr>
-  <tr>
-    <td><b>⚡ APIs & Deployment</b></td>
-    <td>FastAPI REST services, Docker, AWS / GCP, production-grade pipelines</td>
-  </tr>
-  <tr>
-    <td><b>🔎 NLP & Search</b></td>
-    <td>Semantic similarity, dense embedding pipelines, document Q&A systems</td>
-  </tr>
-  <tr>
-    <td><b>📊 ML Engineering</b></td>
-    <td>PyTorch, TensorFlow, Scikit-learn, model evaluation, Streamlit interfaces</td>
-  </tr>
-</table>
+| Area | Engineering focus | Public evidence |
+|---|---|---|
+| **Machine Learning** | Data validation, feature engineering, model comparison, classification metrics, model serialization, inference pipelines | [Workforce Intelligence Platform](https://github.com/kumarvishal10351/workforce-intelligence-platform) |
+| **Deep Learning & NLP** | Text normalization, tokenization, sequence modeling, class balancing, BiGRU networks, regularization, neural inference | [Emotion Detector](https://github.com/kumarvishal10351/Emotion-Detector) |
+| **Retrieval-Augmented Generation** | Document ingestion, chunking, embeddings, dense and hybrid retrieval, reranking, grounding, citations | [AURA](https://github.com/kumarvishal10351/-AURA-Adaptive-Unified-Retrieval-Assistant) · [Context-Aware RAG](https://github.com/kumarvishal10351/Document-Summarizer-RAG-) |
+| **Agentic AI** | ReAct agents, tool use, task routing, multi-stage orchestration, memory, structured outputs, failure handling | [AI Research Multi-Agent System](https://github.com/kumarvishal10351/AI-Research-Multi-Agent-System) |
+| **AI APIs & Products** | FastAPI, REST, SSE, typed schemas, lifecycle-managed models, React/Next.js interfaces, live deployments | [Company-AI](https://github.com/kumarvishal10351/Company-AI) · [Emotion API](https://emotion-detector-8iae.onrender.com/docs) |
+| **Computer Vision** | Facial landmarks, EAR/MAR analysis, head-pose estimation, temporal state machines, calibration and alerts | [Driver Drowsiness Detection](https://github.com/kumarvishal10351/Driver-Drowsiness-Detection-System) |
 
 ---
 
-## 〔 02 〕 Featured Projects
+## Selected Engineering Work
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/workforce-intelligence-platform">Workforce Intelligence Platform</a></b> &nbsp;|&nbsp; ML Pipeline · FastAPI · React 19 · SHAP Explainability · Live Demo</summary>
-<br>
+### 1. [Workforce Intelligence Platform](https://github.com/kumarvishal10351/workforce-intelligence-platform) — End-to-End Machine Learning
 
-Enterprise-grade, end-to-end ML application for HR executives and organizational strategists. Automates the full ML lifecycle — from strict 4-stage data validation and feature engineering to probabilistic inference, local SHAP attribution, and prescriptive retention playbooks. Deployed live with executive analytics dashboard.
+[![Live App](https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=vercel&logoColor=white)](https://workforce-intelligence-platform-pied.vercel.app/)
+[![API Docs](https://img.shields.io/badge/API_Docs-009688?style=flat-square&logo=swagger&logoColor=white)](https://workforce-intelligence-platform-whaw.onrender.com/docs)
 
-🔗 **[Live Demo →](https://workforce-intelligence-platform-pied.vercel.app/)**
+Employee-attrition intelligence system covering the complete supervised-ML workflow from raw tabular data to live predictions.
 
-| Component | Detail |
-|---|---|
-| **ML Pipeline** | Gradient Boosting Classifier — 88.08% ROC-AUC, 87.40% Precision, 76.25% Recall |
-| **Validation** | Custom 4-stage engine: File → Schema → Type → Business Rules (zero imputation) |
-| **Explainability** | SHAP TreeExplainer for per-employee feature attribution & risk decomposition |
-| **Retention Simulator** | Interactive "What-If" analysis with live parameter controls & probability deltas |
-| **Architecture** | AI Engine (Python) → FastAPI Backend → React 19 + Vite Frontend |
-| **Deployment** | Vercel (frontend) + Uvicorn (API), Swagger docs at `/docs` |
+- Built a **four-stage validation pipeline** for file, schema, datatype, and business-rule checks.
+- Implemented feature engineering, preprocessing, stratified splitting, candidate-model training, evaluation, and artifact persistence.
+- Compared Logistic Regression, Decision Tree, Random Forest, and Gradient Boosting models.
+- Documented Gradient Boosting evaluation: **88.08% ROC-AUC, 87.40% precision, and 76.25% recall**.
+- Served predictions through **FastAPI** and built an executive **React 19 + Vite** dashboard with batch upload and what-if simulation workflows.
 
-```
-workforce-intelligence-platform/
-├── ai-engine/          # ML & validation library (training, SHAP, inference)
-├── backend/            # FastAPI REST API (predictions, uploads, employees)
-└── frontend/           # React 19 + Vite + Tailwind executive dashboard
-```
-
-`Gradient Boosting` `SHAP` `FastAPI` `React 19` `Scikit-learn` `Feature Engineering` `MLOps`
-
-</details>
+`Python` `Scikit-learn` `Pandas` `FastAPI` `React` `Model Evaluation` `Data Validation`
 
 ---
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/Company-AI">Company-AI — Autonomous Research Intelligence Platform</a></b> &nbsp;|&nbsp; Next.js 14 · Multi-LLM · Web Crawling · PDF Generation · Discord Bot</summary>
-<br>
+### 2. [Emotion Detector](https://github.com/kumarvishal10351/Emotion-Detector) — Deep Learning for NLP
 
-Enterprise-grade autonomous company research platform. Orchestrates real-time web crawling, Google search discovery via Serper.dev, multi-LLM reasoning via OpenRouter (80+ models), vector PDF report generation, and automated Discord bot dispatches — all within a pixel-perfect pure black ChatGPT-inspired UI.
+[![Live App](https://img.shields.io/badge/Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://emotion-detector-8iae.onrender.com/)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://emotion-detector-8iae.onrender.com/docs)
 
-🔗 **[Live Demo →](https://relu-ai-dev-hiring-virid.vercel.app/)**
+Six-class emotion-classification system trained on the **DAIR-AI Emotion** dataset and deployed as a neural inference API.
 
-| Component | Detail |
-|---|---|
-| **LLM Orchestration** | OpenRouter multi-model — GPT-4o, Claude 3.5 Sonnet, Gemini 2.0, Mistral Large, DeepSeek V3 |
-| **Web Crawling** | Intelligent URL discovery + Cheerio DOM parsing, deduplication & page scoring |
-| **Search Engine** | Serper.dev Google Search API for real-time competitive intelligence |
-| **PDF Engine** | Client-side vector PDF generation via jsPDF with enterprise dark-theme typography |
-| **Discord Integration** | Automated webhook dispatches with structured rich embeds & report metadata |
-| **Architecture** | Next.js 14 SSE API orchestrator → Crawler + Search + LLM → Synthesis Report |
+- Designed a stacked **Bidirectional GRU** network with a learned embedding layer, dropout regularization, and softmax classification.
+- Applied text normalization, vocabulary tokenization, sequence padding, and class-weight balancing.
+- Achieved **92.55% accuracy in the recorded notebook evaluation** across sadness, joy, love, anger, fear, and surprise.
+- Serialized the Keras model and tokenizer, then loaded them through the FastAPI application lifespan for reusable inference.
+- Exposed validated `/predict` and `/health` endpoints with probability distributions and a responsive browser interface.
 
-```
-Company-AI/
-├── src/app/api/        # SSE research orchestrator, Discord webhook, model fetcher
-├── src/components/     # ChatGPT-style UI: sidebar, prompt bar, report viewer
-├── src/lib/            # Crawler, OpenRouter client, Serper client, PDF generator
-└── src/hooks/          # Persistent state management for API keys & history
-```
-
-`Next.js 14` `OpenRouter` `Multi-LLM` `Web Crawling` `Serper.dev` `jsPDF` `Discord Bot` `SSE`
-
-</details>
+`TensorFlow` `Keras` `BiGRU` `NLP` `Sequence Modeling` `FastAPI` `Pydantic`
 
 ---
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/ARIA-V2">ARIA v2 — Adaptive Reasoning Intelligence Agent</a></b> &nbsp;|&nbsp; Multi-Agent · FastAPI · RAG · LLMs · Voice Interface</summary>
-<br>
+### 3. [AURA](https://github.com/kumarvishal10351/-AURA-Adaptive-Unified-Retrieval-Assistant) — Retrieval-Augmented Generation
 
-A production-oriented multi-agent AI assistant with dynamic reasoning across conversational, retrieval, and tool-execution modules. ARIA routes queries intelligently — switching between live chat, document retrieval via vector search, and system-level command execution based on context.
+Document-grounded question-answering system focused on retrieval quality, source visibility, and controlled fallback behavior.
 
-| Component | Detail |
-|---|---|
-| **Architecture** | Modular multi-agent design with a central orchestrator for task delegation |
-| **Retrieval** | Vector embedding pipeline with semantic ranking for context-aware, grounded responses |
-| **API Layer** | FastAPI REST endpoints enabling low-latency, scalable real-time interaction |
-| **Interface** | Voice-based I/O with fallback handling and session continuity |
+- Parses and chunks PDFs, generates normalized embeddings, and persists a **FAISS** vector index.
+- Expands user questions into multiple search formulations to improve recall.
+- Retrieves dense candidates and uses a **CrossEncoder reranker** to improve final context ordering.
+- Grounds generation in retrieved chunks, exposes source passages, and separates document answers from general-model fallback.
+- Includes MLflow instrumentation, automated GitHub Actions checks, and a Docker build workflow.
 
-`Multi-Agent` `RAG` `FastAPI` `Vector Embeddings` `LLMs` `Voice Interface` `Semantic Search`
-
-</details>
+`RAG` `FAISS` `Sentence Transformers` `CrossEncoder` `LangChain` `Mistral AI` `MLflow` `Docker`
 
 ---
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/AI-Career-Copilot">AI Career Copilot</a></b> &nbsp;|&nbsp; Mistral AI · Streamlit · NLP · ATS Intelligence · PDF Parsing</summary>
-<br>
+### 4. [AI Research Multi-Agent System](https://github.com/kumarvishal10351/AI-Research-Multi-Agent-System) — Agentic AI
 
-End-to-end resume intelligence platform that parses resumes, scores them against ATS criteria, matches job descriptions, and generates structured interview preparation material using an LLM backbone.
+Research workflow that separates information discovery, reading, synthesis, and critique into specialized stages.
 
-| Component | Detail |
-|---|---|
-| **LLM Pipeline** | Mistral AI with structured JSON outputs for section-wise ATS scoring and analysis |
-| **Features** | Resume rewriting, job-role matching, interview Q&A generation, improvement suggestions |
-| **Engineering** | Modular separation of LLM calls, PDF parsing, caching, and export layers |
-| **Resilience** | Retry logic and session-based state management for stable multi-user usage |
+- Uses **LangGraph ReAct agents** for web search and source-reading tool execution.
+- Connects Tavily search with source selection and web-page text extraction.
+- Passes gathered evidence to a report-writing chain and an independent critic chain.
+- Produces structured progress updates, reports, quality feedback, and downloadable research output.
 
-`Mistral AI` `Streamlit` `NLP` `ATS Scoring` `PDF Parsing` `LLMs` `Job Matching`
-
-</details>
+`LangGraph` `ReAct` `Tool Calling` `Tavily` `Mistral AI` `BeautifulSoup` `Streamlit`
 
 ---
 
-<details open>
-<summary><b><a href="https://github.com/kumarvishal10351/-AURA-Adaptive-Unified-Retrieval-Assistant">AURA — Adaptive Unified Retrieval Assistant</a></b> &nbsp;|&nbsp; RAG · Vector Databases · Semantic Search · NLP</summary>
-<br>
+### 5. [Company-AI](https://github.com/kumarvishal10351/Company-AI) — GenAI Research Product
 
-A retrieval-augmented QA system built to minimize hallucinations by grounding every LLM response in semantically retrieved source documents. Designed for enterprise-grade document Q&A reliability.
+[![Live App](https://img.shields.io/badge/Live_App-000000?style=flat-square&logo=vercel&logoColor=white)](https://relu-ai-dev-hiring-virid.vercel.app/)
 
-| Component | Detail |
-|---|---|
-| **Retrieval** | Dense vector search with semantic re-ranking for high-precision document matching |
-| **Pipeline** | Scalable ingestion, chunking, indexing, and query workflows |
-| **LLM Integration** | Combines retrieval context with LLM reasoning to eliminate confabulation |
-| **Outcome** | Knowledge-grounded responses suitable for enterprise document Q&A |
+Full-stack company-research application that converts public web information into structured intelligence reports.
 
-`RAG` `Vector DB` `Semantic Search` `NLP` `Knowledge Grounding` `Hallucination Reduction`
+- Discovers official company websites through **Serper.dev**, then crawls and ranks relevant pages with Cheerio.
+- Supports model selection through **OpenRouter** and streams pipeline progress with Server-Sent Events.
+- Generates structured company summaries, product analysis, pain points, competitor information, and source metadata.
+- Creates client-side PDF reports with jsPDF and supports structured Discord webhook delivery.
+- Built with **Next.js 14**, reusable components, API routes, and persistent client-side settings.
 
-</details>
+`Next.js` `OpenRouter` `Serper.dev` `Web Crawling` `Structured Generation` `SSE` `jsPDF`
 
 ---
 
-## 〔 03 〕 System Architecture
+### 6. [Driver Drowsiness Detection System](https://github.com/kumarvishal10351/Driver-Drowsiness-Detection-System) — Computer Vision & Reliability
 
-> How I design end-to-end AI systems — from data ingestion to production inference.
+Real-time driver-monitoring application combining geometric facial signals with a temporal alert state machine.
+
+- Extracts 68-point facial landmarks and calculates **Eye Aspect Ratio**, **Mouth Aspect Ratio**, and head pose.
+- Combines multiple signals into AWAKE, WARNING, and ALERT states using configurable temporal thresholds.
+- Includes driver-specific calibration, GUI and headless modes, event logging, session summaries, and alert handling.
+- Contains automated tests for geometry, invalid inputs, state transitions, reset behavior, and alert triggering.
+
+`OpenCV` `dlib` `NumPy` `SciPy` `Computer Vision` `State Machines` `Pytest`
+
+---
+
+## How I Think About AI Systems
+
+1. **Define the decision and metric first.** Accuracy alone is rarely sufficient; I consider precision, recall, F1, ROC-AUC, retrieval relevance, latency, and failure behavior based on the use case.
+2. **Keep training and inference consistent.** Preprocessing, feature engineering, tokenization, and label mappings should be reusable rather than duplicated across notebooks and APIs.
+3. **Treat retrieval as its own engineering problem.** Good RAG depends on ingestion quality, chunking, candidate recall, reranking, context limits, and source attribution—not only prompting.
+4. **Use agents when tools and state are necessary.** Routing, tool schemas, memory, timeouts, and controlled fallbacks matter more than simply labeling an LLM chain as an agent.
+5. **Validate every system boundary.** Files, schemas, API payloads, model outputs, tool arguments, and external responses should fail clearly and safely.
+6. **Design for deployment and iteration.** Model artifacts, typed APIs, tests, logging, CI, containers, and measurable evaluations turn experiments into maintainable AI products.
+
+---
+
+## Representative System Architecture
+
+> My projects use the branch relevant to the problem: supervised ML for structured data, retrieval and agents for unstructured knowledge, and a shared serving layer for deployment.
 
 ```mermaid
-graph LR
-    subgraph Data Layer
-        A["📄 Documents / CSV"] --> B["⚙️ Validation Engine"]
-        B --> C["🔧 Feature Engineering"]
-        C --> D[("🗄️ Vector Store / DB")]
+flowchart LR
+    subgraph ML[Supervised ML Path]
+        A[Structured Data] --> B[Validation]
+        B --> C[Feature Engineering]
+        C --> D[Train and Compare Models]
+        D --> E[Evaluate and Select]
+        E --> F[Versioned Model Artifact]
     end
 
-    subgraph Intelligence Layer
-        E["👤 User Query"] --> F["🔍 Query Processing"]
-        F --> G["📊 Semantic Search"]
-        D --> G
-        G --> H["🏆 Re-Ranking"]
-        H --> I["🤖 LLM Inference"]
+    subgraph GENAI[GenAI and Agentic Path]
+        G[Documents and Web Data] --> H[Parse and Chunk]
+        H --> I[Embeddings and Index]
+        I --> J[Retrieve and Rerank]
+        J --> K[Grounded LLM or Agent]
+        K --> L[Citations and Structured Output]
     end
 
-    subgraph Serving Layer
-        I --> J["📋 Source Attribution"]
-        J --> K["✅ Grounded Response"]
-        K --> L["⚡ FastAPI / Next.js"]
-    end
+    F --> M[FastAPI or Next.js API]
+    L --> M
+    M --> N[React, Next.js, or Streamlit UI]
 
-    subgraph Agent Orchestration
-        M["🎯 Orchestrator"] --> N["💬 Chat Agent"]
-        M --> O["🔍 Retrieval Agent"]
-        M --> P["🛠️ Tool Agent"]
-        O --> G
-    end
-
-    style D fill:#1a1f35,stroke:#4de8c2,color:#fff
-    style I fill:#1a1f35,stroke:#4de8c2,color:#fff
-    style M fill:#1a1f35,stroke:#4de8c2,color:#fff
-    style K fill:#0d1117,stroke:#4de8c2,color:#4de8c2
+    O[Tests, Metrics, Logging, CI] -. feedback .-> E
+    O -. feedback .-> J
+    O -. feedback .-> M
 ```
 
 ---
 
-## 〔 04 〕 Tech Stack
+## Technical Toolbox
 
-**AI / ML / GenAI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=databricks&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Vector & Search**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-
-**Backend & APIs**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Frontend & UI**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Data & Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Infrastructure & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+| Category | Technologies and concepts |
+|---|---|
+| **Languages & Data** | Python, JavaScript, SQL, Pandas, NumPy, data cleaning, exploratory analysis |
+| **ML & Deep Learning** | Scikit-learn, TensorFlow/Keras, classification, feature engineering, class weighting, model evaluation, serialization |
+| **NLP & Retrieval** | Text preprocessing, tokenization, embeddings, FAISS, ChromaDB, BM25, reciprocal-rank fusion, CrossEncoder reranking |
+| **LLMs & Agents** | LangChain, LangGraph, Mistral AI, OpenRouter, ReAct, tool calling, routing, memory, structured outputs, streaming |
+| **Backend & APIs** | FastAPI, Pydantic, REST, SSE, Node.js, Express, API validation, lifecycle-managed inference |
+| **Frontend** | React, Next.js, Vite, Tailwind CSS, Streamlit, responsive data and AI interfaces |
+| **Engineering & Deployment** | Git, GitHub Actions, Docker, Vercel, Render, testing, logging, environment-based configuration |
 
 ---
 
-## 〔 05 〕 GitHub Activity
+## Additional Projects
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumarvishal10351&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=4de8c2&icon_color=4de8c2&text_color=9aa0b8" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarvishal10351&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=4de8c2&text_color=9aa0b8" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=kumarvishal10351&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4de8c2&fire=f5a623&currStreakLabel=4de8c2" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarvishal10351&bg_color=0d1117&color=4de8c2&line=4de8c2&point=f5a623&area=true&area_color=1a1f35&hide_border=true" width="95%" />
-
-</div>
+- **[Context-Aware RAG Assistant](https://github.com/kumarvishal10351/Document-Summarizer-RAG-)** — BM25 + dense retrieval, reciprocal-rank fusion, embedding reranking, incremental indexing, and citations.
+- **[AI Career Copilot](https://github.com/kumarvishal10351/AI-Career-Copilot)** — PDF resume parsing, structured LLM analysis, resume improvement, and interview preparation.
+- **[Rain Alert](https://github.com/kumarvishal10351/Rain-Alert--App)** — React/Express/MongoDB weather platform with authentication, risk scoring, caching, and alerts.
+- **[Movie Recommender](https://github.com/kumarvishal10351/Movie-Recommender-System)** — content-based recommendation using vectorized metadata and cosine similarity.
 
 ---
 
-## 〔 06 〕 Education
+## Education
 
-| Degree | Institution | Year |
+| Program | Institution | Period |
 |---|---|---|
-| B.Tech, Computer Science | Rajiv Gandhi Proudyogiki Vishwavidyalaya | 2023 – 2026 |
-| Diploma, Computer Science | Jharkhand University of Technology | 2020 – 2023 |
+| **B.Tech in Computer Science** | Rajiv Gandhi Proudyogiki Vishwavidyalaya | 2023–2026 |
+| **Diploma in Computer Science** | Jharkhand University of Technology | 2020–2023 |
 
-**Certifications**
-- Python with Machine Learning — Briztech Solution (2022)
-
----
-
-## 〔 07 〕 Writing & Thought Leadership
-
-> *Technical deep-dives coming soon — on RAG pipeline optimization, multi-agent design patterns, and ML explainability.*
-
-<!-- Uncomment and add links as you publish:
-- 📝 [Designing RAG Pipelines That Don't Hallucinate](#) — How I built AURA's retrieval + grounding system
-- 📝 [Multi-Agent Architecture: Lessons from ARIA](#) — Orchestration patterns for production agents
-- 📝 [SHAP in Production: Making ML Decisions Transparent](#) — Workforce Intelligence Platform's explainability layer
--->
+**Certification:** Python with Machine Learning — Briztech Solution, 2022
 
 ---
 
 <div align="center">
 
-*Building AI systems that work in production, not just in notebooks.*
+### Let’s build intelligent systems that are measurable, grounded, and useful.
 
-<br>
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kumar-kashyap.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kumar-kashyap/)
+[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvikash10351@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-kumar-kashyap/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-kumar-kashyap.vercel.app)
-[![Email](https://img.shields.io/badge/Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarvikash10351@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4de8c2,50:1a1f35,100:0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4de8c2,50:162238,100:0d1117&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
